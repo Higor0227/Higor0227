@@ -2,6 +2,6 @@
 
 ### Hi there! I'm Higor, a engineering undergraduate student at UFSC.
 
-- 🔭 I’m working at [SINMEC](https://github.com/sinmec)
+- 🔭 Working at [SINMEC](https://github.com/sinmec)
 - ✈️ Member of Performance and Electrical Design at [Céu Azul Aeronaves](https://github.com/CeuAzul) team
 - 🌱 I’m currently learning Computational Vision</p>
