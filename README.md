@@ -6,3 +6,4 @@
 - ✈️ Member of Performance and Electrical Design at [Céu Azul Aeronaves](https://github.com/CeuAzul) team
 - 🌱 I’m currently learning Computational Vision</p>
 
+*And I love this one ->*
